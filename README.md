@@ -1,4 +1,4 @@
-![tic-tac-toe banner](tic-tac-toe banner.jpeg)
+![tic-tac-toe banner](tic-tac-toe banner.jpg)
 # Tic-Tac-Toe Game
 
 A classic two-player strategy game using python loops and arrays. 
