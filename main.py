@@ -68,6 +68,7 @@ def full_board(base_board):
 
 # TODO 5 - Game initialisation. 
 def game():
+    print("\n \n \n \n")
     print(logo)
     print('Welcome to Tic-Tac-Toe, the classic three-in-a-row strategy game.')
     print(board(base_board))
