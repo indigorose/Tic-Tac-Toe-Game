@@ -14,7 +14,7 @@ To win, the player must have three of their markers in either horizontal, vertic
 ## Getting Started
 
 At present, there is only a two-player version in this repository. 
-Please clone the repository and run the main.py from the terminal to begin play. 
+Please clone the repository and run the `main.py` from the terminal to begin play. 
 ## Pending Improvements
 
 I hope to make further amendments in the form of a web or tkinter version. 
